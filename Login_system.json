@@ -1,1 +1,24 @@
-
+[
+      {
+            "Username": "ashu",
+            "PhoneNo": 1234567891,
+            "Age": 21,
+            "Description": "student",
+            "Password": "Ashu@25"
+      },
+      {
+            "Username": "saloni",
+            "PhoneNo": 9098718114,
+            "Age": 20,
+            "Description": "student of navgurukul",
+            "Password": "Saloni@90"
+      },
+      {
+            "Username": "ranu chawda",
+            "PhoneNo": 9755743691,
+            "Age": 23,
+            "Description": "job",
+            "Hobby": "litsning music",
+            "Password": "Ranu@20"
+      }
+]
